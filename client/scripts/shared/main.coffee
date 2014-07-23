@@ -9,7 +9,7 @@ angular.module('app.controllers', [])
         $window = $(window)
 
         $scope.main =
-            brand: 'Transform'
+            brand: 'Himawari'
             name: 'Lisa Doe' # those which uses i18n directive can not be replaced for now.
 
         $scope.admin =

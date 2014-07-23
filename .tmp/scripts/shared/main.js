@@ -5,7 +5,7 @@
       var $window;
       $window = $(window);
       $scope.main = {
-        brand: 'Transform',
+        brand: 'Himawari',
         name: 'Lisa Doe'
       };
       $scope.admin = {

@@ -89,5 +89,11 @@
     "intro": "",
     "landing": "",
     "landing page": "",
-    "calendar": ""
+    "calendar": "",
+
+    "benefits": "",
+    "founders": "",
+    "programs": "",
+    "activities": "",
+    "partners": ""
 }

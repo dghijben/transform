@@ -89,5 +89,11 @@
     "founders": "whatever",
     "programs": "whatever",
     "activities": "german activities",
-    "partners": "german whatever"
+    "partners": "german whatever",
+    "benefits title": "This is the German translation of the title",
+    "benefit 1": "insert text for Benefit 1 in german",
+    "benefit 2": "insert text for Benefit 2 in german",
+    "benefit 3": "insert text for Benefit 3 in german",
+    "benefit 4": "insert text for Benefit 4 in german"
+
 }

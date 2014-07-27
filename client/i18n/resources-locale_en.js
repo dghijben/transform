@@ -95,5 +95,10 @@
     "founders": "",
     "programs": "",
     "activities": "",
-    "partners": ""
+    "partners": "",
+    "benefits title": "",
+    "benefit 1": "",
+    "benefit 2": "",
+    "benefit 3": "",
+    "benefit 4": ""
 }

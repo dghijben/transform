@@ -83,5 +83,11 @@
     "intro": "Intro",
     "landing": "Landung",
     "landing page": "Landeseite",
-    "calendar": "Kalender"
+    "calendar": "Kalender",
+    
+    "benefits": "translated by dave",
+    "founders": "whatever",
+    "programs": "whatever",
+    "activities": "german activities",
+    "partners": "german whatever"
 }

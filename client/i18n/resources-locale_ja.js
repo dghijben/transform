@@ -83,5 +83,11 @@
     "intro": "イントロ",
     "landing": "着陸",
     "landing page": "ランディングページ",
-    "calendar": "カレンダー"
+    "calendar": "カレンダー",
+
+    "benefits": "デイブ",
+    "founders": "ザ",
+    "programs": "ガイベン",
+    "activities": "デイブ",
+    "partners": "ガイベン"
 }

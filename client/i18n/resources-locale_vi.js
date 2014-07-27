@@ -91,9 +91,14 @@
     "activities": "german activities",
     "partners": "german whatever",
     "benefits title": "This is the German translation of the title",
-    "benefit 1": "Đăc điểm 1: Chất lượng tốt Ở Tokyo có trên 200 trường nhật ngữ, và trong đó có đủ loại trường tốt xấu. Trung tâm chúng tôi chỉ chọn ra những trường tốt nhất để giới thiệu cho các bạn. Vì nếu học trường tốt thì khả năng Nhật ngữ mới phát triển nhanh được. Và có cơ hội giao tiếp, học hỏi, giao lưu văn hóa với các nước bạn trên thế giới. Hiện nay Himawari đang liên kết, có mối quan hệ đặt biệt với các trường tại trung tâm Tokyo có bằng chứng nhận đặt biệt của chính phủ Nhật. ( chỉ có 15 trường có chứng nhận này).★ Quyền lợi khi được học ở các trường này là có các chế độ ưu đãi như: giảm tiền học phí, giảm vé tham quan, giảm nửa giá các loại phương tiện giao thông ( xe điện, tàu điện ngầm, xe buýt, shinkansen,..)",
-    "benefit 2": "insert text for Benefit 2 in german",
+    "benefit 1": "Chất lượng tốt",
+    "benefit 1 paragraph": "Ở Tokyo có trên 200 trường nhật ngữ, và trong đó có đủ loại trường tốt xấu. Trung tâm chúng tôi chỉ chọn ra những trường tốt nhất để giới thiệu cho các bạn. Vì nếu học trường tốt thì khả năng Nhật ngữ mới phát triển nhanh được. Và có cơ hội giao tiếp, học hỏi, giao lưu văn hóa với các nước bạn trên thế giới. Hiện nay Himawari đang liên kết, có mối quan hệ đặt biệt với các trường tại trung tâm Tokyo có bằng chứng nhận đặt biệt của chính phủ Nhật. ( chỉ có 15 trường có chứng nhận này).★ Quyền lợi khi được học ở các trường này là có các chế độ ưu đãi như: giảm tiền học phí, giảm vé tham quan, giảm nửa giá các loại phương tiện giao thông ( xe điện, tàu điện ngầm, xe buýt, shinkansen,..)",
+    "benefit 2": "An tâm",
     "benefit 3": "insert text for Benefit 3 in german",
-    "benefit 4": "insert text for Benefit 4 in vietnamese"
+    "benefit 4": "insert text for Benefit 4 in vietnamese",
+    "why choose us?": "Insert vietnamese for Why choose us",
+    "benefit 2 paragraph": "Trung tâm Himawari là do người Nhật thành lập, nên các bạn sẽ được hỗ trợ khi sang đến Nhật, và trong thời gian du học tại Nhật. Khi gặp bất kỳ khó khăn nào thì có thể liên lạc cho đại diện tại Nhật để được hỗ trợ.",
+    "caution": "insert caution in vietnamese",
+    "caution paragraph": "insert caution paragraph in vietnamese"
 
 }

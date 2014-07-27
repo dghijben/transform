@@ -98,7 +98,15 @@
     "partners": "",
     "benefits title": "",
     "benefit 1": "",
+    "benefit 1 paragraph": "",
     "benefit 2": "",
+    "benefit 2 paragraph": "",
     "benefit 3": "",
-    "benefit 4": ""
+    "benefit 3 paragraph": "",
+    "benefit 4": "",
+    "benefit 4 paragraph": "",
+    "why choose us?": "",
+    "caution": "",
+    "caution paragraph": ""
+    
 }

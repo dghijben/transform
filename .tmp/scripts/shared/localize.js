@@ -117,6 +117,9 @@
             break;
           case '한국어':
             localize.setLanguage('KO-KR');
+            break;
+          case 'Vietnamese':
+            localize.setLanguage('VI-VN');
         }
         return $scope.lang = lang;
       };

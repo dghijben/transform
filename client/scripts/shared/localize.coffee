@@ -14,6 +14,7 @@ angular.module('app.localization', [])
 # Portugal:         Portugal PT-BR
 # Russian:          Русский язык RU-RU
 # Korean:           한국어 KO-KR
+# Vietnamese:      vi
 
 # thanks for the icons: https://www.iconfinder.com/search/?q=iconset%3Aflags_gosquared
 
@@ -127,6 +128,7 @@ angular.module('app.localization', [])
                 when 'Portugal' then localize.setLanguage('PT-BR')
                 when 'Русский язык' then localize.setLanguage('RU-RU')
                 when '한국어' then localize.setLanguage('KO-KR')
+                when 'Vietnamese' then localize.setLanguage('VI-VN')
 
             $scope.lang = lang
         

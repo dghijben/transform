@@ -83,20 +83,23 @@
                 </ul>
             </li> -->
             <li class="dropdown langs text-normal" data-ng-controller="LangCtrl">
-                <a href="javascript:;" class="dropdown-toggle active-flag" id="step2" data-toggle="dropdown">
-                    <div class="flag {{ getFlag() }}"></div>
+                <a href="javascript:;" class="dropdown-toggle active-flag" id="step2" data-toggle="dropdown">{{lang}}
+                    <!-- <div class="flag {{ getFlag() }}"></div> -->
                 </a>
                 <ul class="dropdown-menu dropdown-menu-right with-arrow list-langs" role="menu">
                     <li data-ng-show="lang !== 'English' ">
-                        <a href="javascript:;" data-ng-click="setLang('English')"><div class="flag flags-american"></div> English</a></li>
+                        <a href="javascript:;" data-ng-click="setLang('English')">English</a></li>
                     <!-- <li data-ng-show="lang !== 'Español' ">
                         <a href="javascript:;" data-ng-click="setLang('Español')"><div class="flag flags-spain"></div> Español</a></li> -->
                     <li data-ng-show="lang !== '日本語' ">
-                        <a href="javascript:;" data-ng-click="setLang('日本語')"><div class="flag flags-japan"></div> 日本語</a></li>
+                        <a href="javascript:;" data-ng-click="setLang('日本語')">日本語</a></li>
                     <!-- <li data-ng-show="lang !== '中文' ">
                         <a href="javascript:;" data-ng-click="setLang('中文')"><div class="flag flags-china"></div> 中文</a></li> -->
-                    <li data-ng-show="lang !== 'Deutsch' ">
-                        <a href="javascript:;" data-ng-click="setLang('Deutsch')"><div class="flag flags-germany"></div> Deutsch</a></li>
+
+                    <li data-ng-show="lang !== 'Vietnamese' ">
+                        <a href="javascript:;" data-ng-click="setLang('Vietnamese')">Vietnamese</a></li>
+                    <!-- <li data-ng-show="lang !== 'Deutsch' ">
+                        <a href="javascript:;" data-ng-click="setLang('Deutsch')">Deutsch</a></li> -->
                     <!-- <li data-ng-show="lang !== 'français' ">
                         <a href="javascript:;" data-ng-click="setLang('français')"><div class="flag flags-france"></div> français</a></li>
                     <li data-ng-show="lang !== 'Italiano' ">

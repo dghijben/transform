@@ -91,7 +91,7 @@
     "landing page": "",
     "calendar": "",
 
-    "benefits": "",
+    "benefits": "ひ",
     "founders": "",
     "programs": "",
     "activities": "",
@@ -107,6 +107,14 @@
     "benefit 4 paragraph": "",
     "why choose us?": "",
     "caution": "",
-    "caution paragraph": ""
+    "caution paragraph": "",
+    "home": "",
+    "home page": "",
+    "founders": "",
+    "founder 1 position":"",
+    "founder 1 birthdate":"",
+    "founder 1 birthplace":"",
+    "founder 1 history":"",
+    "founder 1 interests":""
     
 }

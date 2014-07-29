@@ -39,7 +39,7 @@ angular.module('app', [
     ($routeProvider) ->
 
         routes = [
-            'dashboard', 'benefits', 'founders', 'programs', 'activities', 'partners',
+            'home', 'benefits', 'founders', 'programs', 'activities', 'partners',
             'ui/typography', 'ui/buttons', 'ui/icons', 'ui/grids', 'ui/widgets', 'ui/components', 'ui/timeline', 'ui/nested-lists', 'ui/pricing-tables', 'ui/maps'
             'tables/static', 'tables/dynamic', 'tables/responsive'
             'forms/elements', 'forms/layouts', 'forms/validation', 'forms/wizard'
@@ -61,7 +61,7 @@ angular.module('app', [
             setRoutes(route)
         )
         $routeProvider
-            .when('/', { redirectTo: '/dashboard'} )
+            .when('/', { redirectTo: '/', templateUrl: 'views/home.html'} )
             .when('/404', { templateUrl: 'views/pages/404.html'} )
             .otherwise( redirectTo: '/404' )
 ])

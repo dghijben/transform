@@ -22,7 +22,7 @@ angular.module('app.localization', [])
     '$http', '$rootScope', '$window'
     ($http, $rootScope, $window) ->
         localize =
-            language: ''                    # use the $window service to get the language of the user's browser
+            language: ''                    # use the $window service to get the language of the users browser
             url: undefined                  # location of the resource file
             resourceFileLoaded: false       # flag to indicate if the service has loaded the resource file
 

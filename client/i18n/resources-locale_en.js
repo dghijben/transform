@@ -18,24 +18,28 @@
     "caution paragraph": "",
     "home": "",
     "home page": "",
-    
-    "masanori sakata", "",
+
+    "masanori sakata":"",
     "founder 1 position":"",
     "founder 1 birthdate":"",
     "founder 1 birthplace":"",
-    "founder 1 history":"",
-    "founder 1 interests":"",
+    "founder 1 point 1":"",
+    "founder 1 point 2":"",
+    "founder 1 point 3":"",
 
     "tran thi yen":"",
     "founder 2 birthdate":"",
     "founder 2 birthplace":"",
-    "founder 2 history":"",
-    "founder 2 interests":"",
+    "founder 2 point 1":"",
+    "founder 2 point 2":"",
+    "founder 2 point 3":"",
+    "founder 2 point 4":"",
 
     "cao thi minh hue":"",
-    "founder 3 position": "",
+    "founder 3 position":"",
     "founder 3 birthdate":"",
     "founder 3 birthplace":"",
-    "founder 3 history":"",
-    "founder 3 interests":""
+    "founder 3 point 1":"",
+    "founder 3 point 2":"",
+    "founder 3 point 3":""
 }

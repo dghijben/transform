@@ -5,7 +5,6 @@
     "programs": "",
     "access": "",
     "partners": "",
-    "benefits title": "",
     "benefit 1": "",
     "benefit 1 paragraph": "",
     "benefit 2": "",

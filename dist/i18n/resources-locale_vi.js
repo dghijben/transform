@@ -19,13 +19,22 @@
     "caution paragraph": "insert caution paragraph in vietnamese",
     "home page": "himawari duhoc",
 
+
+    "birthdate": "Ngày tháng năm sinh",
+    "birthplace": "Quê quán",
+    "career": "Lý lịch",
+    "hobbies": "Sở thích",
+    "favorite words": "Từ yêu thích",
+    "founder message": "Lời nhắn nhủ",
+
     "masanori sakata":"Masanori Sakata",
-    "founder 1 position":"position in vietnamese",
+    "founder 1 position":"Đại diện trung tâm",
     "founder 1 birthdate":"Ngày tháng năm sinh: 25/1/1979",
-    "founder 1 birthplace":"Quê quán: Tokyo",
-    "founder 1 point 1":"Lý lịch・Sau khi tốt nghiệp trường đại học kiến trúc đã làm việc về kiến trúc xây dựng và bất động sản.・ Năm 2014 đã thi đậu kỳ thi kiến thức của quốc gia cấp độ 1( có 10,000 người dự thi, trong đó chỉ có 60 người đậu, và đứng thứ 45)・ Đã có kinh nghiệm làm việc tại Bộ giáo dục Nhật bản.・ Tháng 11/2013 đã thành lập trung tâm Himawari",
-    "founder 1 point 2":"Sở thích・Thích và chơi giỏi tất cả các môn thể thao, đặt biệt là bơi lội, bóng chày, cầu long, golf, trượt tuyết,v.v..・ Thích du lịch. Đã đi tham quan rất nhiều nước trên thế giới..・ Hiện tại có hứng thú và đang cố gắng học tiếng việt.",
-    "founder 1 point 3":"Lời nhắn nhủ・Nhật bản và Việt nam có mối quan hệ mật thiết, và đang hợp tác trên nhiều lĩnh vực. Hiện nay đang được gọi là thời kỳ vàng, vì các công ty Nhật đã và đang đầu tư mạnh mẽ vào Việt Nam. Nhật bản hiện là nước tỉ lệ sinh thấp tuổi thọ tăng. Việc đưa người nước ngoài sang sinh sống, học tập, làm việc và cống hiến cho đất nước là giải pháp không thể thiếu hiện nay. Gần đây, Việt Nam là nước được Nhật đang nhắm tới. Nếu có học sinh nào muốn học tiếng Nhật, muốn thành công ở Nhật bản hoặc ở Việt nam, muốn gia đình có cuộc sống sung túc, thì hãy đến với trung Tâm Himawai. Chúng tôi sẽ giúp bạn thực hiện ước mơ. Nếu có bạn nào bảo tôi ghét học ( tôi nghĩ là nhiều) thì hãy nhìn vào tấm gương của tôi , vì ngày xưa tôi cũng rất ghét học. Bạn phải biết rằng, việc học chăm chỉ thì đó là khối tài sản lớn trong tương lai của bạn. Ngược lại, nếu không học thì sẽ không có tương lai tốt đẹp ( điều này chắc mọi người đều hiểu). Bây giờ, nếu có bạn nào đang có suy nghĩ muốn cố gắng học tiếng Nhật, muốn học chuyên môn, muốn học Đại học hoặc cao học ở Nhật, thì chúng tôi sẽ cố gắng hết sức để giúp bạn hoàn thành mục tiêu. Tôi sẽ rất vui khi được gặp bạn ở trung tâm Himawari tại Việt Nam và Nhật bản.",
+    "founder 1 birthplace":"Saitama",
+    "founder 1 career":"・Sau khi tốt nghiệp trường đại học kiến trúc đã làm việc về kiến trúc xây dựng và bất động sản.・ Năm 2014 đã thi đậu kỳ thi kiến thức của quốc gia cấp độ 1( có 10,000 người dự thi, trong đó chỉ có 60 người đậu, và đứng thứ 45)・ Đã có kinh nghiệm làm việc tại Bộ giáo dục Nhật bản.・ Tháng 11/2013 đã thành lập trung tâm Himawari",
+    "founder 1 hobbies":"・Thích và chơi giỏi tất cả các môn thể thao, đặt biệt là bơi lội, bóng chày, cầu long, golf, trượt tuyết,v.v..・ Thích du lịch. Đã đi tham quan rất nhiều nước trên thế giới..・ Hiện tại có hứng thú và đang cố gắng học tiếng việt.",
+    "founder 1 favorite words":"Lời nhắn nhủ・Nhật bản và Việt nam có mối quan hệ mật thiết, và đang hợp tác trên nhiều lĩnh vực. Hiện nay đang được gọi là thời kỳ vàng, vì các công ty Nhật đã và đang đầu tư mạnh mẽ vào Việt Nam. Nhật bản hiện là nước tỉ lệ sinh thấp tuổi thọ tăng. Việc đưa người nước ngoài sang sinh sống, học tập, làm việc và cống hiến cho đất nước là giải pháp không thể thiếu hiện nay. Gần đây, Việt Nam là nước được Nhật đang nhắm tới. Nếu có học sinh nào muốn học tiếng Nhật, muốn thành công ở Nhật bản hoặc ở Việt nam, muốn gia đình có cuộc sống sung túc, thì hãy đến với trung Tâm Himawai. Chúng tôi sẽ giúp bạn thực hiện ước mơ. Nếu có bạn nào bảo tôi ghét học ( tôi nghĩ là nhiều) thì hãy nhìn vào tấm gương của tôi , vì ngày xưa tôi cũng rất ghét học. Bạn phải biết rằng, việc học chăm chỉ thì đó là khối tài sản lớn trong tương lai của bạn. Ngược lại, nếu không học thì sẽ không có tương lai tốt đẹp ( điều này chắc mọi người đều hiểu). Bây giờ, nếu có bạn nào đang có suy nghĩ muốn cố gắng học tiếng Nhật, muốn học chuyên môn, muốn học Đại học hoặc cao học ở Nhật, thì chúng tôi sẽ cố gắng hết sức để giúp bạn hoàn thành mục tiêu. Tôi sẽ rất vui khi được gặp bạn ở trung tâm Himawari tại Việt Nam và Nhật bản.",
+    "founder 1 message":"",
 
     "tran thi yen":"Tran Thi Yen",
     "founder 2 birthdate":"Ngày tháng năm sinh: 1983/11/8",

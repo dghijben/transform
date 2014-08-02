@@ -19,13 +19,22 @@
     "home": "",
     "home page": "",
 
+
+    "birthdate": "",
+    "birthplace": "",
+    "career": "",
+    "hobbies": "",
+    "favorite words": "",
+    "founder message": "",
+
     "masanori sakata":"",
     "founder 1 position":"",
     "founder 1 birthdate":"",
     "founder 1 birthplace":"",
-    "founder 1 point 1":"",
-    "founder 1 point 2":"",
-    "founder 1 point 3":"",
+    "founder 1 career":"",
+    "founder 1 hobbies":"",
+    "founder 1 favorite words":"",
+    "founder 1 message":"",
 
     "tran thi yen":"",
     "founder 2 birthdate":"",

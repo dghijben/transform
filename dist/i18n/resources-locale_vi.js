@@ -3,7 +3,7 @@
     "benefits": "Insert Benefits in Vietnamese",
     "founders": "Insert Founders in Vietnamese",
     "programs": "Insert Programs in Vietnamese",
-    "activities": "Insert Activities in Vietnamese",
+    "access": "Insert Access in Vietnamese",
     "partners": "Insert Partners in Vietnamese",
     "benefits title": "Insert Benefits in Vietnamese",
 

@@ -4,7 +4,7 @@
     "benefits": "特徴",
     "founders": "スタッフ紹介",
     "programs": "programs in japanese",
-    "activities": "activities in jp",
+    "access": "access in jp",
     "partners": "partners in jp",
     "benefits title": "日本へ留学をするなら「ひまわり日本留学支援センター」へ 他の留学の仲介会社と何が違うの?",
     "benefit 1": "留学先の質の高さ",

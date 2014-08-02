@@ -39,7 +39,7 @@ angular.module('app', [
     ($routeProvider) ->
 
         routes = [
-            'home', 'benefits', 'founders', 'programs', 'activities', 'partners',
+            'home', 'benefits', 'founders', 'programs', 'access', 'partners',
             'ui/typography', 'ui/buttons', 'ui/icons', 'ui/grids', 'ui/widgets', 'ui/components', 'ui/timeline', 'ui/nested-lists', 'ui/pricing-tables', 'ui/maps'
             'tables/static', 'tables/dynamic', 'tables/responsive'
             'forms/elements', 'forms/layouts', 'forms/validation', 'forms/wizard'

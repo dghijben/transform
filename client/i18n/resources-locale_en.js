@@ -2,7 +2,7 @@
     "benefits": "",
     "founders": "",
     "programs": "",
-    "activities": "",
+    "access": "",
     "partners": "",
     "benefits title": "",
     "benefit 1": "",

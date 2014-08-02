@@ -1,12 +1,12 @@
 { 
-    "home": "home in vietnamese",
-    "benefits": "Insert Benefits in Vietnamese",
-    "founders": "Insert Founders in Vietnamese",
-    "programs": "Insert Programs in Vietnamese",
-    "access": "Insert Access in Vietnamese",
-    "partners": "Insert Partners in Vietnamese",
-    "benefits title": "Insert Benefits in Vietnamese",
-
+    "himawari duhoc": "Trung Tâm Tư Vân Dọc HoHimawari",
+    "home": "Trang chù",
+    "benefits": "Đăc điểm",
+    "founders": "lời giới thiệu",
+    "programs": "Các bước du học",
+    "access": "Truy cập",
+    "partners": "Các trường liên kết tại Nhật Bản",
+    "benefits title": "Các lý do để bạn chọn chúng tôi",
     "benefit 1": "Chất lượng tốt",
     "benefit 1 paragraph": "Ở Tokyo có trên 200 trường nhật ngữ, và trong đó có đủ loại trường tốt xấu. Trung tâm chúng tôi chỉ chọn ra những trường tốt nhất để giới thiệu cho các bạn. Vì nếu học trường tốt thì khả năng Nhật ngữ mới phát triển nhanh được. Và có cơ hội giao tiếp, học hỏi, giao lưu văn hóa với các nước bạn trên thế giới. Hiện nay Himawari đang liên kết, có mối quan hệ đặt biệt với các trường tại trung tâm Tokyo có bằng chứng nhận đặt biệt của chính phủ Nhật. ( chỉ có 15 trường có chứng nhận này).★ Quyền lợi khi được học ở các trường này là có các chế độ ưu đãi như: giảm tiền học phí, giảm vé tham quan, giảm nửa giá các loại phương tiện giao thông ( xe điện, tàu điện ngầm, xe buýt, shinkansen,..)",
     "benefit 2": "An tâm",
@@ -42,6 +42,13 @@
     "founder 3 birthplace":"Quê quán:Vũng Tàu",
     "founder 3 point 1":"Lý lịch ・Năm 2011: Tốt nghiệp chuyên ngành Lập trình phần mềm trường Học viên NIIT・Sau khi tốt nghiệp đã làm việc đã làm việc tại vị trí Tester phần mềm tại công ty phát triển công nghệ TTS・Có kinh nghiệm làm trong lĩnh vực cung ứng nhân sự tại VungtauWorks Human Resource Support Office và tư vấn tài chính tại Công ty bất động sản ABBO (New Zealand)・Từ tháng 11/2013 thành lập Trung tâm tư vấn du học HIMAWARI tại Ninh Bình. Chịu trách nhiệm tiếp nhận hồ sơ, chuẩn bị hồ sơ, phỏng vấn học sinh, chuẩn bị lớp học và ký túc xá cho học sinh trong quá trình học tại Việt Nam.",
     "founder 3 point 2":"Sở thích ・Là một người hướng ngoại nên tôi luôn luôn thích nói chuyện với mọi người, thích đọc sách, nghe nhạc và chơi thể thao.",
-    "founder 3 point 3":"Lời nhắn nhủ ・Tại Việt Nam hiện nay đã có rất nhiều công ty của Nhật được thành lập. Chính phủ Nhật đã có những chính sách rất thông thoáng: Đầu tư rất nhiều vốn ODA vào Việt Nam, mở của cho sinh viên Việt Nam được đến học tập và làm việc tại Nhật. Như vậy Đối với sinh viên Việt Nam mà nói đây chính là cơ hội vàng để các bạn được đến học tập tại một đất nước phát triển như Nhật Bản. Hãy nắm bắt cơ hội để tự mình thay đổi tương lai của mình. Chúc các bạn thành công."
+    "founder 3 point 3":"Lời nhắn nhủ ・Tại Việt Nam hiện nay đã có rất nhiều công ty của Nhật được thành lập. Chính phủ Nhật đã có những chính sách rất thông thoáng: Đầu tư rất nhiều vốn ODA vào Việt Nam, mở của cho sinh viên Việt Nam được đến học tập và làm việc tại Nhật. Như vậy Đối với sinh viên Việt Nam mà nói đây chính là cơ hội vàng để các bạn được đến học tập tại một đất nước phát triển như Nhật Bản. Hãy nắm bắt cơ hội để tự mình thay đổi tương lai của mình. Chúc các bạn thành công.",
 
+    "address": "Địa chỉ",
+    "telephone": "Tel",
+    "number": "03-0388-8539",
+    "fax": "",
+    "email": "",
+    "website": "",
+    "facebook": ""
 }

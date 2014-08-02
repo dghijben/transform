@@ -1,12 +1,13 @@
 {
+    "himawari duhoc":"ひまわり留学支援センター",
     "home": "ホーム",
 
     "benefits": "特徴",
-    "founders": "スタッフ紹介",
-    "programs": "programs in japanese",
-    "access": "access in jp",
-    "partners": "partners in jp",
-    "benefits title": "日本へ留学をするなら「ひまわり日本留学支援センター」へ 他の留学の仲介会社と何が違うの?",
+    "founders": "ご挨拶",
+    "programs": "留学までの流れ",
+    "access": "アクセス",
+    "partners": "提携日本語学校",
+    "benefits title": "私たちが選ばれる理由",
     "benefit 1": "留学先の質の高さ",
     "benefit 1 paragraph": "東京には、200以上の日本語学校があります。しかし、日本語学校には、質の良い学校・質の悪い学校が様々です(どこも同じでは、ありません)。良い学校に通うことは、日本語の上達の近道です。良い学校には、様々な国の留学生が在籍し、様々な文化の違いも学ぶことができます。→200以上の日本語学校の中で、政府から特別の認可を受けている優良な学校が‘15校’あります。ひまわり日本留学支援センターは、その特別な認可を受けている学校と緊密に提携しています。なお、優良校では、学費面そして通学の交通費の優遇があります。その他、映画館や動物園等での観覧時、携帯電話の購入時に学生割引を受けることもできます。",
     
@@ -43,6 +44,14 @@
     "founder 3 birthplace":"出身地:ブンタウ",
     "founder 3 point 1":" ",
     "founder 3 point 2":" ",
-    "founder 3 point 3":" "
+    "founder 3 point 3":" ",
+
+    "address": "住所",
+    "telephone": "電話",
+    "number": "(+84)3-0388-8539",
+    "fax": "",
+    "email": "",
+    "website": "",
+    "facebook": ""
 
 }

@@ -1,4 +1,5 @@
 {
+    "himawari duhoc": "",
     "benefits": "",
     "founders": "",
     "programs": "",
@@ -41,5 +42,13 @@
     "founder 3 birthplace":"",
     "founder 3 point 1":"",
     "founder 3 point 2":"",
-    "founder 3 point 3":""
+    "founder 3 point 3":"",
+
+    "address": "",
+    "telephone": "",
+    "number": "",
+    "fax": "",
+    "email": "",
+    "website": "",
+    "facebook": ""
 }

@@ -1,8 +1,8 @@
 { 
-    "himawari duhoc": "Trung Tâm Tư Vân Dọc HoHimawari",
+    "himawari duhoc": "Trung Tâm tư vấn du học Himawari",
     "home": "Trang chù",
     "benefits": "Đăc điểm",
-    "founders": "lời giới thiệu",
+    "founders": "Lời giới thiệu",
     "programs": "Các bước du học",
     "access": "Truy cập",
     "partners": "Các trường liên kết tại Nhật Bản",

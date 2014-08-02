@@ -737,5 +737,3 @@
   ]);
 
 }).call(this);
-
-//# sourceMappingURL=ChartCtrl.js.map

@@ -5,7 +5,7 @@
     "founders": "Lời giới thiệu",
     "programs": "Các bước du học",
     "access": "Truy cập",
-    "partners": "Các trường liên kết tại Nhật Bản",
+    "partners": "Các trường liên kết",
     "benefit 1": "Chất lượng tốt",
     "benefit 1 paragraph": "Ở Tokyo có trên 200 trường nhật ngữ, và trong đó có đủ loại trường tốt xấu. Trung tâm chúng tôi chỉ chọn ra những trường tốt nhất để giới thiệu cho các bạn. Vì nếu học trường tốt thì khả năng Nhật ngữ mới phát triển nhanh được. Và có cơ hội giao tiếp, học hỏi, giao lưu văn hóa với các nước bạn trên thế giới. Hiện nay Himawari đang liên kết, có mối quan hệ đặt biệt với các trường tại trung tâm Tokyo có bằng chứng nhận đặt biệt của chính phủ Nhật. ( chỉ có 15 trường có chứng nhận này).★ Quyền lợi khi được học ở các trường này là có các chế độ ưu đãi như: giảm tiền học phí, giảm vé tham quan, giảm nửa giá các loại phương tiện giao thông ( xe điện, tàu điện ngầm, xe buýt, shinkansen,..)",
     "benefit 2": "An tâm",

@@ -171,8 +171,10 @@
 
                         height: 50px;
                         padding: 14px 10px;
+                        margin-right:17px;
                         @media (min-width:$screen-sm) {
                             padding: 14px 15px;
+                            margin-right:17px;
                         }
 
                         .badge {

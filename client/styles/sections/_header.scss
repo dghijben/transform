@@ -40,7 +40,6 @@
                 display: inline-block;
                 width: 220px;
                 background-color: transparent;
-                border-right: 1px solid rgba(255,255,255,.1);
             }
 
             > a {
@@ -60,7 +59,7 @@
             display: block;
             position: absolute;
             top:  ( $header_height/2 - 17);
-            left: 8px;
+            left: 6px;
             width: 46px;
             padding: 10px 12px;
             border-radius: 4px;

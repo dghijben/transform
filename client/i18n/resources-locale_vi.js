@@ -55,9 +55,21 @@
 
     "address": "Địa chỉ",
     "telephone": "Tel",
-    "number": "03-0388-8539",
+    "telephone number": "030-388-539",
     "fax": "",
+    "fax number": "030-890-689",
     "email": "",
-    "website": "",
-    "facebook": ""
+    "facebook": "",
+
+    "partner explanation": "là trường được nhà nước công nhận trường quốc gia",
+    "eastwest japanese language school": "Trường Nhật ngữ Eastwest",
+    "international school of business": "Trường Nhật ngữ ISB",
+    "akamonkai japanese language school": "Trường Nhật ngữ Akamonkai",
+    "the naganuma school": "Trường Naganuma (Trường Nhật ngữ Tokyo)",
+    "tokyo galaxy japanese language school": "Trường tiếng Nhật Tokyo Galaxy",
+    "jet academy": "Trường Nhật ngữ JET",
+    "futaba college of foreign languages": "Trường Nhật ngữ Futaba",
+    "samu language school": "Học viện ngôn ngữ Samu",
+    "urawa international school": "Học viện quốc tế Urawa",
+    "tokyo international asahi institute": "Học viện quốc tế Asahi"
 }

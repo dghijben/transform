@@ -56,7 +56,20 @@
     "telephone": "",
     "number": "",
     "fax": "",
+    "fax number": "",
     "email": "",
-    "website": "",
-    "facebook": ""
+    "facebook": "",
+
+    "partner explanation": "",
+    "eastwest japanese language school": "",
+    "international school of business": "",
+    "akamonkai japanese language school": "",
+    "the naganuma school": "",
+    "tokyo galaxy japanese language school": "",
+    "jet academy": "",
+    "futaba college of foreign languages": "",
+    "samu language school": "",
+    "urawa international school": "",
+    "tokyo international asahi institute": ""
+
 }

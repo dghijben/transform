@@ -47,7 +47,7 @@
     "founder 2 point 4":" ",
 
     "cao thi minh hue":"Cao Thi Minh Hue",
-    "founder 3 position": "課長",
+    "founder 3 position": "ベトナム社長",
     "founder 3 birthdate":"1990年11月3日生",
     "founder 3 birthplace":"ブンタウ",
     "founder 3 point 1":" ",
@@ -56,10 +56,22 @@
 
     "address": "住所",
     "telephone": "電話",
-    "number": "(+84)3-0388-8539",
-    "fax": "",
-    "email": "",
-    "website": "",
-    "facebook": ""
+    "telephone number": "(+84)030-388-539",
+    "fax": "FAX",
+    "fax number": "(+84)30-890-689",
+    "email": "メール",
+    "facebook": "",
+
+    "partner explanation": "印は、学校法人が設置する日本語学校",
+    "eastwest japanese language school": "イーストウエスト日本語学校",
+    "international school of business": "インターナショナル・スクール オブ ビジネス（ISB)",
+    "akamonkai japanese language school": "赤門会日本語学校",
+    "the naganuma school": "東京日本語学校（長沼スクール)",
+    "tokyo galaxy japanese language school": "東京ギャラクシー日本語学校",
+    "jet academy": "学校法人 ＪＥＴ日本語学校",
+    "futaba college of foreign languages": "双葉外語学校",
+    "samu language school": "サム教育学院",
+    "urawa international school": "浦和国際学院",
+    "tokyo international asahi institute": "東京国際朝日学院"
 
 }

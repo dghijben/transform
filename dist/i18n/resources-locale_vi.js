@@ -50,7 +50,7 @@
 
     "tran thi yen":"Tran Thi Yen",
     "founder 2 position": "Trưởng trung tâm",
-    "founder 2 birthdate":"1983/11/8",
+    "founder 2 birthdate":"8/11/1983",
     "founder 2 birthplace":"Hồ Chí Minh",
     
     "founder 2 career point 1":"Tốt nghiệp trường trung cấp du lịch và Khóa Nhật ngữ trung cấp tại trường Đông Du.",

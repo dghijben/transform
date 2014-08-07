@@ -27,30 +27,64 @@
     "favorite words": "",
     "founder message": "",
 
+
+
     "masanori sakata":"",
     "founder 1 position":"",
     "founder 1 birthdate":"",
     "founder 1 birthplace":"",
-    "founder 1 career":"",
-    "founder 1 hobbies":"",
+
+    "founder 1 career point 1":"",
+    "founder 1 career point 2":"",
+    "founder 1 career point 3":"",
+    "founder 1 career point 4":"",
+
+    "founder 1 hobbies point 1":"",
+    "founder 1 hobbies point 2":"",
+    "founder 1 hobbies point 3":"",
+
     "founder 1 favorite words":"",
-    "founder 1 message":"",
+
+    "founder 1 message paragraph 1":"",
+    "founder 1 message paragraph 2":"",
+    "founder 1 message paragraph 3":"",
+
+
 
     "tran thi yen":"",
+    "founder 2 position": "",
     "founder 2 birthdate":"",
     "founder 2 birthplace":"",
-    "founder 2 point 1":"",
-    "founder 2 point 2":"",
-    "founder 2 point 3":"",
-    "founder 2 point 4":"",
+
+    "founder 2 career point 1":"",
+    "founder 2 career point 2":"",
+    "founder 2 career point 3":"",
+    "founder 2 career point 4":"",
+    "founder 2 career point 5":"",
+    "founder 2 career point 6":"",
+
+    "founder 2 hobbies point 1": "",
+
+    "founder 2 message paragraph 1":"",
+    "founder 2 message paragraph 2":"",
+    "founder 2 message paragraph 3":"",
+
+
 
     "cao thi minh hue":"",
     "founder 3 position":"",
     "founder 3 birthdate":"",
     "founder 3 birthplace":"",
-    "founder 3 point 1":"",
-    "founder 3 point 2":"",
-    "founder 3 point 3":"",
+
+    "founder 3 career point 1":"",
+    "founder 3 career point 2":"",
+    "founder 3 career point 3":"",
+    "founder 3 career point 4":"",
+
+    "founder 3 hobbies point 1":"",
+
+    "founder 3 message paragraph":"",
+
 
     "address": "",
     "telephone": "",

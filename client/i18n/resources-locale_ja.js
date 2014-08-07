@@ -1,25 +1,33 @@
 {
-    "himawari duhoc":"ひまわり留学支援センター",
-    "home": "ホーム",
+    "trung Tâm tư vấn du học Himawari": "ひまわり留学支援センター",
 
-    "benefits": "特徴",
-    "founders": "ご挨拶",
-    "programs": "留学までの流れ",
-    "access": "アクセス",
-    "partners": "提携日本語学校",
-    "benefit 1": "特徴 1 : 留学先の質の高さ",
-    "benefit 1 paragraph": "東京には、200以上の日本語学校があります。しかし、日本語学校には、質の良い学校・質の悪い学校が様々です(どこも同じでは、ありません)。良い学校に通うことは、日本語の上達の近道です。良い学校には、様々な国の留学生が在籍し、様々な文化の違いも学ぶことができます。→200以上の日本語学校の中で、政府から特別の認可を受けている優良な学校が‘15校’あります。ひまわり日本留学支援センターは、その特別な認可を受けている学校と緊密に提携しています。なお、優良校では、学費面そして通学の交通費の優遇があります。その他、映画館や動物園等での観覧時、携帯電話の購入時に学生割引を受けることもできます。",
+    "trang chù": "ホーム",
+    "đăc điểm": "特徴",
+    "lời giới thiệu": "ご挨拶",
+    "các bước du học": "留学までの流れ",
+    "truy cập": "アクセス",
+    "các trường liên kết": "提携日本語学校",
+
+    "các lý do để bạn chọn chúng tôi": "私たちが選ばれる理由",
+
+    "đăc điểm 1": "特徴 1",
+    "chất lượng tốt":"留学先の質の高さ",
+    "tokyo có trên 200 trường nhật ngữ, và trong đó có đủ loại trường tốt xấu. Trung tâm chúng tôi chỉ chọn ra những trường tốt nhất để giới thiệu cho các bạn. Vì nếu học trường tốt thì khả năng Nhật ngữ mới phát triển nhanh được. Và có cơ hội giao tiếp, học hỏi, giao lưu văn hóa với các nước bạn trên thế giới. Hiện nay Himawari đang liên kết, có mối quan hệ đặt biệt với các trường tại trung tâm Tokyo có bằng chứng nhận đặt biệt của chính phủ Nhật. ( chỉ có 15 trường có chứng nhận này). Quyền lợi khi được học ở các trường này là có các chế độ ưu đãi như: giảm tiền học phí, giảm vé tham quan, giảm nửa giá các loại phương tiện giao thông ( xe điện, tàu điện ngầm, xe buýt, shinkansen, ..)": "東京には、200以上の日本語学校があります。しかし、日本語学校には、質の良い学校・質の悪い学校が様々です(どこも同じでは、ありません)。良い学校に通うことは、日本語の上達の近道です。良い学校には、様々な国の留学生が在籍し、様々な文化の違いも学ぶことができます。→200以上の日本語学校の中で、政府から特別の認可を受けている優良な学校が‘15校’あります。ひまわり日本留学支援センターは、その特別な認可を受けている学校と緊密に提携しています。なお、優良校では、学費面そして通学の交通費の優遇があります。その他、映画館や動物園等での観覧時、携帯電話の購入時に学生割引を受けることもできます。",
     
-    "why choose us?": "私たちが選ばれる理由",
-    "benefit 2": "特徴 2 : 安心さ(日本でのフォローアップ)",
-    "benefit 2 paragraph": "ひまわり日本留学支援センターは、日本人が運営しています。そのため、学生に対し、留学後も日本でのフォローアップが可能です。生活で困った時、トラブルに巻き込まれた等の緊急時には、ひまわり日本語留学支援センターが学生のサポートをいたします。",
-    "benefit 3": "特徴 3 : 学生寮の整備",
-    "benefit 3 paragraph": "ひまわり日本留学支援センターでは、東京で学生寮の整備も行っています。東京は、物価が高く、東京の中心に住むためには、高いお金を支払う必要があります。そのため、東京にやってくる留学生の多くは、住環境のひどい寮に住んでいることが現実です。私たちは、ひまわりの学生が日本で安心して生活し、勉強ができるように、学生寮の整備を行っています。寮には、共用ラウンジを設け、学生が交流できるスペースや、学生1人ひとりへ専用の机を設置するなど、学生の日本での生活のサポートを行っています。現在、ひまわりの第1期生(2014年10月)のために、こちらの建物の大改装工事を行っています。東京の中心地(新宿)まで学生寮の最寄駅から、10分程度のロケーションです。",
-    "benefit 4": "特徴 4 : 費用の明確性",
-    "benefit 4 paragraph": "ひまわり日本留学支援センターは、留学の仲介手数料は、「成功報酬」としています。成功報酬:留学のためのステップに応じて、手数料を頂いています。詳しくは、ひまわり日本留学支援センターにお問い合わせください。",
+    "đăc điểm 2": "特徴 2",
+    "an tâm":"安心さ(日本でのフォローアップ)",
+    "trung tâm Himawari là do người Nhật thành lập, nên các bạn sẽ được hỗ trợ khi sang đến Nhật, và trong thời gian du học tại Nhật. Khi gặp bất kỳ khó khăn nào thì có thể liên lạc cho đại diện tại Nhật để được hỗ trợ.": "ひまわり日本留学支援センターは、日本人が運営しています。そのため、学生に対し、留学後も日本でのフォローアップが可能です。生活で困った時、トラブルに巻き込まれた等の緊急時には、ひまわり日本語留学支援センターが学生のサポートをいたします。",
+    
+    "đăc điểm 3": "特徴 3",
+    "có chuẩn bị ký túc xá dành riêng cho học sinh của trung tâm":"学生寮の整備",
+    "trung tâm Himawari có hỗ trợ KTX cho sinh viên đăng ký học tại trung tâm.Ở Tokyo giá cả đắt đỏ, vì vậy để kiếm 1 căn hộ giá rẻ dành cho sinh viên thì rất khó. Hiện nay có nhiều du học sinh đang sống trong 1 môi trường người đông chật hẹp. Nắm bắt được tình hình khó khăn của du học sinh hiện nay, để cho học sinh của trung tâm có môi trường sạch sẽ, thoáng mát, thuận lợi trong viêc đi lại ,chúng tôi đã thiết kế 1 ký túc xá chỉ dành cho học sinh của trung tâm. Ký túc xá mà chúng tôi đang nói đến là 1 nơi không khí trong lành , nằm ngay giữa lòng thành phố Tokyo, và nằm trong khu phố căn hộ cao cấp, yên tĩnh. Đi bộ đến ga gần nhất mất khoảng 7 phút, và đi xe đạp đến trường mất 10 phút. Đi đến shinjyuku mất 2 ga ( 4 phút). Trong KTX thì mỗi em học sinh sẽ có 1 không gian riêng của mình ( chứ không phải nhồi nhét theo kiểu 1 phòng 5,7 người), có giường, bàn ghế riêng cho từng học sinh. Có nhà vệ sinh, bếp, các thiết bị cần thiết,.. Ngoài ra, còn có 1 phòng giao lưu (phòng khách) có ghế sofa , kệ sách, tivi,.. để ngồi nói chuyện, giao lưu với bạn bè.":"ひまわり日本留学支援センターでは、東京で学生寮の整備も行っています。東京は、物価が高く、東京の中心に住むためには、高いお金を支払う必要があります。そのため、東京にやってくる留学生の多くは、住環境のひどい寮に住んでいることが現実です。私たちは、ひまわりの学生が日本で安心して生活し、勉強ができるように、学生寮の整備を行っています。寮には、共用ラウンジを設け、学生が交流できるスペースや、学生1人ひとりへ専用の机を設置するなど、学生の日本での生活のサポートを行っています。現在、ひまわりの第1期生(2014年10月)のために、こちらの建物の大改装工事を行っています。東京の中心地(新宿)まで学生寮の最寄駅から、10分程度のロケーションです。",
+    
+    "đăc điểm 4": "特徴 4",
+    "các chi phí thu rõ ràng, minh bạch": "費用の明確性",
+    "trung tâm sẽ thu lệ phí theo từng kỳ chứ không thu 1 lần gây khó khăn cho phụ huynh trong việc chuẩn bị. Lệ phí bao nhiêu, thu như thế nào thì hãy liên lạc cho trung tâm để được trả lời cụ thể. Lưu ý: Hiện nay trung tâm tư vấn du học ở VN tăng lên rất nhiều. Tuy nhiên trong đó có nhiều trung tâm tư vấn tốt và không tốt. Nếu bạn đang nghĩ đến việc tìm một trung tâm để theo học thì hãy tìm hiểu kỹ để không tiền mất tật mang, gây khó khăn hơn cho bố mẹ.": "ひまわり日本留学支援センターは、留学の仲介手数料は、「成功報酬」としています。成功報酬:留学のためのステップに応じて、手数料を頂いています。詳しくは、ひまわり日本留学支援センターにお問い合わせください。",
+
     "caution": "注意",
     "caution paragraph": "※ベトナムの多くの仲介会社では、申請・紹介手数料が「前払い制」です。高額なお金を事前に要求され、時には、お金だけ払い、留学できず、お金を失っているご家族が多く見受けられています。",
-    "home page": "ひまわり",
     
     "birthdate": "誕生日",
     "birthplace": "出身地",

@@ -114,7 +114,7 @@ angular.module('app.localization', [])
 .controller('LangCtrl', [
     '$scope', 'localize'
     ($scope, localize) ->
-        $scope.lang = 'English'
+        $scope.lang = 'Vietnamese'
 
         $scope.setLang = (lang) ->
             switch lang

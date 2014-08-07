@@ -85,7 +85,7 @@
     }
   ]).controller('LangCtrl', [
     '$scope', 'localize', function($scope, localize) {
-      $scope.lang = 'English';
+      $scope.lang = 'Vietnamese';
       $scope.setLang = function(lang) {
         switch (lang) {
           case 'English':

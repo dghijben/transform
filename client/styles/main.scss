@@ -56,3 +56,56 @@
 .profile-image {
 	padding-top:15px;
 }
+
+.app > .header-container.header-fixed + .main-container {
+	padding-top: 35px;
+	@media (min-width:768px) {
+    	padding-top: 0px;
+    }
+}
+
+.app > .main-container > .nav-container {
+	padding-top: 50px;
+	@media (max-width: 767px) {
+		padding-top: 50px;
+	}
+}
+
+
+.on-canvas #nav-container {
+	@media (max-width: 767px) {
+	display: block;
+	position: fixed;
+	top: 0px;
+	bottom: 0;
+	float: none;
+	}
+}
+
+.logo-image {
+	padding: 15px;
+}
+
+.header-container > .top-header .menu-button:hover {
+cursor: pointer;
+background-color: #f3f3f3;
+}
+
+.header-container > .top-header .menu-button {
+display: block;
+position: absolute;
+top: 8px;
+left: 6px;
+width: 46px;
+padding: 10px 12px;
+border-radius: 2px;
+@media (min-width: 767px) {display:none}
+}
+
+.header-container > .top-header .menu-button .icon-bar {
+display: block;
+width: 22px;
+height: 2px;
+border-radius: 1px;
+background-color: #767676;
+}

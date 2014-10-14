@@ -4,6 +4,7 @@ angular.module('app', [
     # Angular modules
     'ngRoute'
     'ngAnimate'
+    'ngResource'
 
     # 3rd Party Modules
     'ui.bootstrap'
@@ -32,6 +33,7 @@ angular.module('app', [
     'app.chart.ctrls'
     'app.chart.directives'
     'app.page.ctrls'
+    'app.mailchimp'
 ])
     
 .config([
@@ -39,7 +41,7 @@ angular.module('app', [
     ($routeProvider) ->
 
         routes = [
-            'home', 'benefits', 'founders', 'programs', 'access', 'partners',
+            'home', 'benefits', 'founders', 'programs', 'atmosphere', 'access', 'partners',
             'ui/typography', 'ui/buttons', 'ui/icons', 'ui/grids', 'ui/widgets', 'ui/components', 'ui/timeline', 'ui/nested-lists', 'ui/pricing-tables', 'ui/maps'
             'tables/static', 'tables/dynamic', 'tables/responsive'
             'forms/elements', 'forms/layouts', 'forms/validation', 'forms/wizard'

@@ -4,43 +4,18 @@ angular.module('app.controllers', [])
 
 # overall control
 .controller('AppCtrl', [
-    '$scope', '$rootScope'
-    ($scope, $rootScope) ->
+    '$scope', '$rootScope', 'localize'
+    ($scope, $rootScope, localize) ->
         $window = $(window)
 
         $scope.main =
-            brand: 'Himawari'
-            name: 'Lisa Doe' # those which uses i18n directive can not be replaced for now.
+            brand: 'Trung Tâm tư vấn du học Himawari'
 
         $scope.admin =
             layout: 'wide'          # 'boxed', 'wide'
             menu: 'vertical'        # 'horizontal', 'vertical'
             fixedHeader: true       # true, false
             fixedSidebar: false     # true, false
-
-        $scope.$watch('admin', (newVal, oldVal) ->
-            # manually trigger resize event to force morris charts to resize, a significant performance impact, enable for demo purpose only
-            # if newVal.menu isnt oldVal.menu || newVal.layout isnt oldVal.layout
-            #      $window.trigger('resize')
-
-            if newVal.menu is 'horizontal' && oldVal.menu is 'vertical'
-                 $rootScope.$broadcast('nav:reset')
-                 return
-            if newVal.fixedHeader is false && newVal.fixedSidebar is true
-                if oldVal.fixedHeader is false && oldVal.fixedSidebar is false
-                    $scope.admin.fixedHeader = true 
-                    $scope.admin.fixedSidebar = true 
-                if oldVal.fixedHeader is true && oldVal.fixedSidebar is true
-                    $scope.admin.fixedHeader = false 
-                    $scope.admin.fixedSidebar = false 
-                return
-            if newVal.fixedSidebar is true
-                $scope.admin.fixedHeader = true
-            if newVal.fixedHeader is false 
-                $scope.admin.fixedSidebar = false
-
-            return
-        , true)
 
         $scope.color =
             primary:    '#1BB7A0'

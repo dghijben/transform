@@ -1,12 +1,11 @@
 (function() {
   'use strict';
   angular.module('app.controllers', []).controller('AppCtrl', [
-    '$scope', '$rootScope', function($scope, $rootScope) {
+    '$scope', '$rootScope', 'localize', function($scope, $rootScope, localize) {
       var $window;
       $window = $(window);
       $scope.main = {
-        brand: 'Himawari',
-        name: 'Lisa Doe'
+        brand: 'Trung Tâm tư vấn du học Himawari'
       };
       $scope.admin = {
         layout: 'wide',
@@ -14,29 +13,6 @@
         fixedHeader: true,
         fixedSidebar: false
       };
-      $scope.$watch('admin', function(newVal, oldVal) {
-        if (newVal.menu === 'horizontal' && oldVal.menu === 'vertical') {
-          $rootScope.$broadcast('nav:reset');
-          return;
-        }
-        if (newVal.fixedHeader === false && newVal.fixedSidebar === true) {
-          if (oldVal.fixedHeader === false && oldVal.fixedSidebar === false) {
-            $scope.admin.fixedHeader = true;
-            $scope.admin.fixedSidebar = true;
-          }
-          if (oldVal.fixedHeader === true && oldVal.fixedSidebar === true) {
-            $scope.admin.fixedHeader = false;
-            $scope.admin.fixedSidebar = false;
-          }
-          return;
-        }
-        if (newVal.fixedSidebar === true) {
-          $scope.admin.fixedHeader = true;
-        }
-        if (newVal.fixedHeader === false) {
-          $scope.admin.fixedSidebar = false;
-        }
-      }, true);
       return $scope.color = {
         primary: '#1BB7A0',
         success: '#94B758',
